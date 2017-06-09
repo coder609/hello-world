@@ -1,4 +1,5 @@
 # hello-world
+# email subscription prompts
 
 Websites that prompt you for your email as soon as you land on their page are annoying.  
 
